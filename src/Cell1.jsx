@@ -1,5 +1,5 @@
 function Cell({ player, updateCell }) {
-  // console.log(item);
+  //
   return (
     <div className={`cell cell__${player}`} onClick={updateCell}>
       {player === 1 ? (
