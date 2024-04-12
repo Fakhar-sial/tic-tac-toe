@@ -8,4 +8,4 @@ After installation you can start this react app using
 
 npm run dev
 
-'This app was built with create vite'
+'React, Vite'
